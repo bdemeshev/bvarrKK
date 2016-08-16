@@ -1,0 +1,21 @@
+Package: bvarrKK
+Type: Package
+Title: Translation Of Koop And Korobilis BVAR Matlab Code Into R
+Version: 0.2
+Date: 2015-07-25
+Author: Gary Koops, Dimitris Korobilis, Boris Demeshev <boris.demeshev@gmail.com>
+Maintainer: Boris Demeshev <boris.demeshev@gmail.com>
+Depends:
+    R (>= 3.1.0)
+Imports:
+    MCMCpack (>= 1.3.3),
+    mvtnorm (>= 1.0.1),
+    reshape2 (>= 1.4),
+    ggplot2 (>= 1.0.0),
+    dplyr (>= 0.4.2),
+    tidyr (>= 0.2.0)
+Description: Translation of Koop and Korobilis BVAR matlab code into R.
+Original code is available at http://personal.strath.ac.uk/gary.koop/bayes_matlab_code_by_koop_and_korobilis.html.
+LazyData: true
+License: GPL-3
+RoxygenNote: 5.0.1
