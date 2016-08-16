@@ -1,5 +1,7 @@
-bvarr
+bvarrKK
 =====
+
+[![Travis-CI Build Status](https://travis-ci.org/bdemeshev/bvarrKK.svg?branch=master)](https://travis-ci.org/bdemeshev/bvarrKK)
 
 The package `bvarrKK` may be useful for estimating bayesian VAR models.
 
@@ -26,7 +28,5 @@ This code is not developed anymore. You are free to start...
 
 You may also wish look at [BMR](http://bayes.squarespace.com/bmr/), [MSBVAR](http://cran.r-project.org/web/packages/MSBVAR/), [bvarsv](https://cran.r-project.org/web/packages/bvarsv/index.html) packages. 
 
-
-[![Travis-CI Build Status](https://travis-ci.org/bdemeshev/bvarrKK.svg?branch=master)](https://travis-ci.org/bdemeshev/bvarrKK)
 
 
